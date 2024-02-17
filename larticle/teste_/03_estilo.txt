@@ -1,0 +1,1 @@
+![red;cyan]{estilizado3};

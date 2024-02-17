@@ -1,0 +1,44 @@
+<{Mecânica social natural};
+    'a razão da socialização';
+    'as somas de produção / somas de demandas';
+    'divisão de tarefas e a otimização / estruturas';
+    'pertencimento: critério de inserção na sociedade';
+    'coordenação / alocação / sincronia';
+    'conflito -> O 3º fator (autoridade/sistema) -> alto posto -> dominação/expansão/exploração';
+    'quando surge a necessidade , de algo que rege a "ordem"';
+    'ato de representação conjunta, sindicatos, cartéis';
+>;
+
+<{Cultura};
+    'cultivo à que?';
+    'princípios e valores: o que é valorizado ou depreciado';
+    'tradição vs cultura';
+    'Religião: aspecto Literário, aspecto Resposta, aspecto Político-social-identidade, aspecto Cultivo-tradição';
+>;
+
+<{Estruturas, Estado e a Legitimação de autoridade};
+    'estrutura de comando centralizado vs estrutura de comando descentralizado';
+    'os propósitos da autoridade: decisão*';
+    'força, riqueza, popularidade, sangue, competência';
+    'distorção artificial x comportamento espontâneo';
+    'preço da lei:comportamento contorno-elisão, alternativas';
+    'a verdadeira história do estado (não é uma organização social voluntária para resolução conjunta de problemas e sim a desconstrução de impérios/domínios exploradores )';
+    'a história dos domínios, ladrão estacionário, as medidas de contensão';
+>;
+
+<{Recursos sociais};
+    'valor : solução/ algo que alguem quer/precisa';
+    'lastro : acesso a solução';
+    'concorrencia : limitação de acesso';
+    'demanda != necessidade';
+    'incentivo';
+    'trabalho: tudo que se aplica para agregar valor / força direta, força indireta';
+    'propensão a atividade definida pelas caracteristicas da paisagem, cultura';
+>;
+
+<{contradições base sociais};
+    'perspectiva de operador x gerencia';
+    'otmização de produção x otimização de distribuição';
+    'distorção de herança';
+    'alegação , distorção de propriedade';
+>;

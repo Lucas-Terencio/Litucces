@@ -1,0 +1,37 @@
+'As atitudes de um individuo podem ser descritas por uma equação R * (▲m) =? D, o fator recursos, desejo';
+'A diferença entre o vicioso e o virtuoso é dada pelo filtro (▲m) que define o método usado para alcançar seus objetivos';
+'▲m = f(R)';
+{O alcance virtuoso}' é tudo o que ele pode ser entre a plenitude total das atitudes e sua total falha';
+*'Dada uma analize sobre as origens das decisões de um individuo , é possível identificar 3 faces que o compõe';
+
+'Os desejos podem ser oriundos de 3 faces';
+<{A Criatura};
+    'o que é capiturado da realidade pelo corpo, seus estimulos e as impressôes mais involuntárias';
+    'sensores';
+    'impulsos: fome, sede, frio, dor, cansaço ...';
+    'sentimentos';
+    'informações adiquiridas pelos sentidos passivos(oufato,paladar,visão...)';
+>;
+
+<{O Cidadão};
+    'as impressoes definidas pelo acumulo de experiencia, os impulsos criados por seu contexto social';
+    'tradicionalidades passadas e repetidas sem aprofundar seus objetivos';
+    'não é explicada pela natureza do individuo, mas sim na sua perdição do que considera como procedente ou valioso sobre sua realidade';
+>;
+
+<{A Consciência};
+    'impressôes objetivas, ao que atende POSITIVO ao que não atente não serve ao que atrapalha NEGATIVO';
+    'baseado em fatos atestados e informações adiquiridas pelo sentido ativo, a Consciência que processa informações utilizando a lógica para chegar em outras';
+>;
+
+
+'Entre os mais importantes recursos que um individuo pode ter está o conceito/informação/axiomas , aquilo que ele aceita como verdade em suas decisões ';
+'A natureza do conceito: Verdade, Viés, Equivoco';
+
+{VERDADE}'tudo, tudo manifesto e atestado pela realidade';
+{VIÉS}'informação que tem cunho principal, servir a um próposito (psicologico, social, politico ...)';
+{EQUIVOCO}'uma falha em conseguir a verdade';
+
+'Verdade, a suprema tendência : cada decisão com conceito falho, falha em seus resultados e afim de progredir, é corrigido, a sucessão de correção revela a tendência';
+
+'os recursos do individuo vem, em sua maioria,  da sociedade e seu contexto social, considerando isso , pra entender o individuo é necessário entender seu contexto e que recursos lhe são dados';

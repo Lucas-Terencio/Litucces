@@ -1,0 +1,16 @@
+![red;yellow]{larticle};
+![blue;yellow]{content};
+![yellow;black]{section};
+
+<{sem estilo associado};
+    'algo escrito para exemplificar'{sem estilo associado}(d);
+    'algo escrito para exemplificar'(l);
+>;
+<;
+    'algo escrito para exemplificar'{sem estilo associado}(l);
+    'algo escrito para exemplificar'(d);
+>;
+
+{estilizado}'algo escrito para exemplificar';
+{estilizado2}'algo escrito para exemplificar';
+{estilizado3}'algo escrito para exemplificar';
