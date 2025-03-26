@@ -1,6 +1,6 @@
-![red;#38c]{larticle};
-![blue;yellow]{content};
-![orange;black]{section};
+![blue;yellow]{trik};
+![red;yellow]{content};
+![black;yellow]{section};
 
 <{sem estilo associado};
     'algo escrito para exemplificar'{sem estilo associado}(d);

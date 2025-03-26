@@ -4,7 +4,7 @@
     'divisão de tarefas e a otimização / estruturas';
     'pertencimento: critério de inserção na sociedade';
     'coordenação / alocação / sincronia';
-    'conflito -> O 3º fator (autoridade/sistema) -> alto posto -> dominação/expansão/exploração';
+    'conflito - O 3º fator (autoridade/sistema) - alto posto - dominação/expansão/exploração';
     'quando surge a necessidade , de algo que rege a "ordem"';
     'ato de representação conjunta, sindicatos, cartéis';
 >;
@@ -33,7 +33,17 @@
     'demanda != necessidade';
     'incentivo';
     'trabalho: tudo que se aplica para agregar valor / força direta, força indireta';
-    'propensão a atividade definida pelas caracteristicas da paisagem, cultura';
+    'propensão a atividade definida pelas caracteristicas: de paisagem, cultura ...';
+    <{formas de gestão de recursos};
+        'propriedade privada';
+        'gestão centralizada';
+        'coletivização';
+    >;
+    <{anatomia social};
+        'materialismo vs idealismo';
+        'componentes economicos';
+        'componentes politicos';
+    >;
 >;
 
 <{contradições base sociais};
@@ -41,4 +51,5 @@
     'otmização de produção x otimização de distribuição';
     'distorção de herança';
     'alegação , distorção de propriedade';
+    'distorção de representatividade, classe em si';
 >;

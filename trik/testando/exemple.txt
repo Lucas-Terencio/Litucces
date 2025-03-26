@@ -1,4 +1,4 @@
-![red;yellow]{larticle};
+![red;yellow]{trik};
 ![blue;yellow]{content};
 ![yellow;black]{section};
 

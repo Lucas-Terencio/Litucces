@@ -1,0 +1,58 @@
+{
+    "explorer.sortOrder": "mixed",
+    "highlight.regexes": {
+        "(\\{[^{}]*\\})[^;]*": {
+        "filterFileRegex": "\\.txt$",
+        "decorations": [
+                {
+                    // "overviewRulerColor": "#ffcc00",
+                    // "backgroundColor": "#ffcc00",
+                    "color": "#ffcc00",
+                    "fontWeight": "italic"
+                },
+                {
+                    // "backgroundColor": "#ffcc00",
+                    // "color": "#1f1f1f"
+                }
+            ]
+        },
+        "(\\[[^\\[\\]]*\\])": {
+            "filterFileRegex": "\\.txt$",
+            "decorations": [
+                    {
+                        "color": "#65baff",
+                        "fontWeight": "bold"
+                    },
+                ]
+        },
+        "(\\([^\\(\\)]*\\))": {
+            "filterFileRegex": "\\.txt$",
+            "decorations": [
+                    {
+                        "color": "#00ff66",
+                        "fontWeight": "bold"
+                    },
+                ]
+        },
+        "([<>].*;)": {
+            "filterFileRegex": "\\.txt$",
+            "decorations": [
+                    {
+                        // "backgroundColor": "#5e41eec9",
+                        "color": "#0ff",
+                    },
+                    {
+                        "color": "#0ff"
+                    }
+                ]
+        },
+        "(\\*[^;]*)": {
+            "filterFileRegex": "\\.txt$",
+            "decorations": [
+                    {
+                        "backgroundColor": "#534444dc"
+                    }
+                ]
+        }
+    },
+}
